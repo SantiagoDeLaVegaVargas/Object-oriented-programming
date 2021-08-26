@@ -1,0 +1,6 @@
+C:\Users\SANTIAGO DE LA VEGA\source\repos\El punto 7\El punto 7\bin\Debug\El punto 7.exe.config
+C:\Users\SANTIAGO DE LA VEGA\source\repos\El punto 7\El punto 7\bin\Debug\El punto 7.exe
+C:\Users\SANTIAGO DE LA VEGA\source\repos\El punto 7\El punto 7\bin\Debug\El punto 7.pdb
+C:\Users\SANTIAGO DE LA VEGA\source\repos\El punto 7\El punto 7\obj\Debug\El punto 7.csproj.CoreCompileInputs.cache
+C:\Users\SANTIAGO DE LA VEGA\source\repos\El punto 7\El punto 7\obj\Debug\El punto 7.exe
+C:\Users\SANTIAGO DE LA VEGA\source\repos\El punto 7\El punto 7\obj\Debug\El punto 7.pdb

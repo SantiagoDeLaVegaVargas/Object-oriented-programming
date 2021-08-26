@@ -1,0 +1,7 @@
+C:\Users\SANTIAGO DE LA VEGA\source\repos\Punto 2\Punto 2\bin\Debug\Punto 2.exe.config
+C:\Users\SANTIAGO DE LA VEGA\source\repos\Punto 2\Punto 2\bin\Debug\Punto 2.exe
+C:\Users\SANTIAGO DE LA VEGA\source\repos\Punto 2\Punto 2\bin\Debug\Punto 2.pdb
+C:\Users\SANTIAGO DE LA VEGA\source\repos\Punto 2\Punto 2\obj\Debug\Punto 2.csprojAssemblyReference.cache
+C:\Users\SANTIAGO DE LA VEGA\source\repos\Punto 2\Punto 2\obj\Debug\Punto 2.csproj.CoreCompileInputs.cache
+C:\Users\SANTIAGO DE LA VEGA\source\repos\Punto 2\Punto 2\obj\Debug\Punto 2.exe
+C:\Users\SANTIAGO DE LA VEGA\source\repos\Punto 2\Punto 2\obj\Debug\Punto 2.pdb

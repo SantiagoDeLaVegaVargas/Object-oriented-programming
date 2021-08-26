@@ -1,0 +1,7 @@
+C:\Users\SANTIAGO DE LA VEGA\source\repos\El punto 6\El punto 6\obj\Debug\El punto 6.csprojAssemblyReference.cache
+C:\Users\SANTIAGO DE LA VEGA\source\repos\El punto 6\El punto 6\obj\Debug\El punto 6.csproj.CoreCompileInputs.cache
+C:\Users\SANTIAGO DE LA VEGA\source\repos\El punto 6\El punto 6\bin\Debug\El punto 6.exe.config
+C:\Users\SANTIAGO DE LA VEGA\source\repos\El punto 6\El punto 6\bin\Debug\El punto 6.exe
+C:\Users\SANTIAGO DE LA VEGA\source\repos\El punto 6\El punto 6\bin\Debug\El punto 6.pdb
+C:\Users\SANTIAGO DE LA VEGA\source\repos\El punto 6\El punto 6\obj\Debug\El punto 6.exe
+C:\Users\SANTIAGO DE LA VEGA\source\repos\El punto 6\El punto 6\obj\Debug\El punto 6.pdb
