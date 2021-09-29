@@ -10,6 +10,7 @@ namespace EJEMPLO
     {
         static void Main(string[] args)
         {
+            Perro unperro = new Perro("Pablo", "cafe", 4);
         }
     }
 }

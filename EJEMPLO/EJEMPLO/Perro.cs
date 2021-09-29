@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace EJEMPLO
 {
-    class Perro
+    class Perro:Animal
     {
+        private string NombreDePerro;
+
+        public Perro(string nombre, string color, int numeroDePatas) : base(nombre, color, numeroDePatas)
+        {
+            this.NombreDePerro = NombreDePerro;
+        }
     }
 }
